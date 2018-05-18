@@ -93,7 +93,7 @@
 
 @mixin skeleton($shapes...) {
 
-    @debug $shapes;
+    /*@debug $shapes;*/
 
     $background-list: ();
     $background-size-list: ();
